@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/karthikanagaraj26/MUI-Project/static/css/main.bc88980b.css",
-    "main.js": "/karthikanagaraj26/MUI-Project/static/js/main.9e178062.js",
-    "static/media/3.jpeg": "/karthikanagaraj26/MUI-Project/static/media/3.3dd9bcb09a02cea27d77.jpeg",
-    "static/media/1.jpeg": "/karthikanagaraj26/MUI-Project/static/media/1.46fba799674276514905.jpeg",
-    "static/media/2.jpeg": "/karthikanagaraj26/MUI-Project/static/media/2.04cf15657c76c3b49d10.jpeg",
-    "static/media/5.jpeg": "/karthikanagaraj26/MUI-Project/static/media/5.943ab67760836f624799.jpeg",
-    "index.html": "/karthikanagaraj26/MUI-Project/index.html",
-    "main.bc88980b.css.map": "/karthikanagaraj26/MUI-Project/static/css/main.bc88980b.css.map",
-    "main.9e178062.js.map": "/karthikanagaraj26/MUI-Project/static/js/main.9e178062.js.map"
+    "main.css": "/MUI-Project/static/css/main.bc88980b.css",
+    "main.js": "/MUI-Project/static/js/main.459e0099.js",
+    "static/media/3.jpeg": "/MUI-Project/static/media/3.3dd9bcb09a02cea27d77.jpeg",
+    "static/media/1.jpeg": "/MUI-Project/static/media/1.46fba799674276514905.jpeg",
+    "static/media/2.jpeg": "/MUI-Project/static/media/2.04cf15657c76c3b49d10.jpeg",
+    "static/media/5.jpeg": "/MUI-Project/static/media/5.943ab67760836f624799.jpeg",
+    "index.html": "/MUI-Project/index.html",
+    "main.bc88980b.css.map": "/MUI-Project/static/css/main.bc88980b.css.map",
+    "main.459e0099.js.map": "/MUI-Project/static/js/main.459e0099.js.map"
   },
   "entrypoints": [
     "static/css/main.bc88980b.css",
-    "static/js/main.9e178062.js"
+    "static/js/main.459e0099.js"
   ]
 }
